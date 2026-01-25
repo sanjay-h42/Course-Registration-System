@@ -2,6 +2,7 @@
 📌 Overview
 
 The Full-Stack Course Registration System is a production-ready web application designed to efficiently manage academic course enrollment workflows. It enables students to explore available courses, register seamlessly, and track their enrollments, while administrators can manage courses and users through secure backend services. The application is built using a modern full-stack architecture with clear separation of concerns, ensuring scalability, maintainability, and performance.
+![My Image](Home Page.png)
 
 🏗️ System Architecture
 
